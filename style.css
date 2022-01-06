@@ -16,11 +16,11 @@ p{
 }
 #slice{
     border-left: 7px solid;
-    border-image: linear-gradient(#FF5959, #f86b6b);
+    border-image: linear-gradient(#ffb759, #e6a519);
     border-image-slice: 1;
 }
 span{
-    color: orange;
+    color: rgb(223, 79, 103);
 }
 a{
     text-decoration: none;
@@ -31,32 +31,32 @@ a{
 }
 .flex-box{
         display: flex;
-        margin-left: 200px;
-        margin-right: 200px;
+        margin-left: 50px;
+        margin-right: 50px;
 }
 .half-width{
     width: 50%;
 }
 .half-width img{
-    width: 100%;
+    width: 80%;
 }
 .stay-f{
-    margin-top: 200px;
-    margin-right: 100px;
+    margin-top: 50px;
+    margin-right: 50px;
 }
 .top-img-margin{
-    margin-left: 100px;
-    margin-right: 100px;
+    margin-left: 50px;
+    margin-right: 50px;
 
 }
 coding-img{
-    margin-right: 200px;
+    margin-right: 50px;
 }
 .development{
-    margin-left: 100px;
+    margin-left: 50px;
 }
 .section-mg{
-    margin-bottom: 100px;
+    margin-bottom: 50px;
 }
 .center-heading{
     text-align: center;
@@ -86,13 +86,12 @@ coding-img{
     background-image: url(images/shapes/shape-1.png);
     background-repeat: no-repeat;
     background-position: left;
-    background-size: 40%;
 }
 .know-our{
-    margin-right: 100px;
+    margin-right: 50px;
 }
 .poject-img{
-    margin-left: 100px;
+    margin-left: 50px;
 }
 #footer-x{
     color: rgb(255, 255, 255);
