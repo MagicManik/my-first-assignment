@@ -8,19 +8,16 @@ h1{
 h2{
     font-size: 40px;
 }
-h3{
-    font-size: 30px;
-}
 p{
     font-size: 18px;
 }
 #slice{
     border-left: 7px solid;
-    border-image: linear-gradient(#ffb759, #e6a519);
+    border-image: linear-gradient(#FF5959, #f77c7c);
     border-image-slice: 1;
 }
 span{
-    color: rgb(223, 79, 103);
+    color: orange;
 }
 a{
     text-decoration: none;
@@ -82,11 +79,6 @@ coding-img{
     border-radius: 40px;
     margin: 10px;
 }
-#coding-bg{
-    background-image: url(images/shapes/shape-1.png);
-    background-repeat: no-repeat;
-    background-position: left;
-}
 .know-our{
     margin-right: 50px;
 }
@@ -105,4 +97,23 @@ coding-img{
 }
 footer{
     padding: 5px;
+}
+
+
+
+
+.contact{
+    width: 500px;
+    padding: 30px;
+    background-color: orange;
+    border-radius: 30px;
+}
+.input-h-w{
+    width: 500px;
+    height: 20px;
+    border-radius: 5px;
+}
+.message-box{
+width: 400px;
+height: 300px;
 }
