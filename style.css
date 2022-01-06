@@ -31,16 +31,29 @@ a{
 }
 .flex-box{
         display: flex;
-        margin-left: 100px;
+        margin-left: 200px;
+        margin-right: 200px;
 }
 .half-width{
     width: 50%;
 }
 .half-width img{
-    width: 60%;
+    width: 100%;
 }
 .stay-f{
-    margin-top: 100px;
+    margin-top: 200px;
+    margin-right: 100px;
+}
+.top-img-margin{
+    margin-left: 100px;
+    margin-right: 100px;
+
+}
+coding-img{
+    margin-right: 200px;
+}
+.development{
+    margin-left: 100px;
 }
 .section-mg{
     margin-bottom: 100px;
@@ -55,22 +68,31 @@ a{
     background-image: linear-gradient(#cfe5e9, #d5edf0);
     padding: 20px;
     border-radius: 40px;
+    margin: 10px;
 }
 .i-two{
     background-image: linear-gradient(#fadede, #f5e6e6);
     padding: 20px;
     border-radius: 40px;
+    margin: 10px;
 }
 .i-three{
     background-image: linear-gradient(#FFF4D6, #f7eed8);
     padding: 20px;
     border-radius: 40px;
+    margin: 10px;
 }
 #coding-bg{
     background-image: url(images/shapes/shape-1.png);
     background-repeat: no-repeat;
     background-position: left;
     background-size: 40%;
+}
+.know-our{
+    margin-right: 100px;
+}
+.poject-img{
+    margin-left: 100px;
 }
 #footer-x{
     color: rgb(255, 255, 255);
