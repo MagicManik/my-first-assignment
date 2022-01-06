@@ -52,17 +52,17 @@ a{
     width: 30%;
 }
 .i-one{
-    background-image: linear-gradient(blue, tomato);
+    background-image: linear-gradient(#cfe5e9, #d5edf0);
     padding: 20px;
     border-radius: 40px;
 }
 .i-two{
-    background-image: linear-gradient(gray, tomato);
+    background-image: linear-gradient(#fadede, #f5e6e6);
     padding: 20px;
     border-radius: 40px;
 }
 .i-three{
-    background-image: linear-gradient(blue, tomato);
+    background-image: linear-gradient(#FFF4D6, #f7eed8);
     padding: 20px;
     border-radius: 40px;
 }
