@@ -1,3 +1,87 @@
 body{
     font-family: 'Poppins', sans-serif;
+    margin: 0;
+}
+h1{
+    font-size: 50px;
+}
+h2{
+    font-size: 40px;
+}
+h3{
+    font-size: 30px;
+}
+p{
+    font-size: 18px;
+}
+#slice{
+    border-left: 7px solid;
+    border-image: linear-gradient(#FF5959, #f86b6b);
+    border-image-slice: 1;
+}
+span{
+    color: orange;
+}
+a{
+    text-decoration: none;
+    background-color: tomato;
+    padding: 15px 30px;
+    border-radius: 5px;
+    color: white;
+}
+.flex-box{
+        display: flex;
+        margin-left: 100px;
+}
+.half-width{
+    width: 50%;
+}
+.half-width img{
+    width: 60%;
+}
+.stay-f{
+    margin-top: 100px;
+}
+.section-mg{
+    margin-bottom: 100px;
+}
+.center-heading{
+    text-align: center;
+}
+.illustrators-img{
+    width: 30%;
+}
+.i-one{
+    background-image: linear-gradient(blue, tomato);
+    padding: 20px;
+    border-radius: 40px;
+}
+.i-two{
+    background-image: linear-gradient(gray, tomato);
+    padding: 20px;
+    border-radius: 40px;
+}
+.i-three{
+    background-image: linear-gradient(blue, tomato);
+    padding: 20px;
+    border-radius: 40px;
+}
+#coding-bg{
+    background-image: url(images/shapes/shape-1.png);
+    background-repeat: no-repeat;
+    background-position: left;
+    background-size: 40%;
+}
+#footer-x{
+    color: rgb(255, 255, 255);
+}
+#footer-y{
+    color: tomato;
+}
+#footer-bg{
+    text-align: center;
+    background-color: black;
+}
+footer{
+    padding: 5px;
 }
